@@ -17,4 +17,3 @@ img_url = 'https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-9/20245535_66227428062992
 faces = id = (CF.face.detect(img_url,landmarks=True,attributes='age,gender,headPose,smile,facialHair,glasses,emotion,makeup,accessories,occlusion,blur,exposure,noise,hair'))
 
 print (json.dumps(faces, sort_keys=True, indent=2))
-
