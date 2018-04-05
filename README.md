@@ -2,4 +2,4 @@
 ---
 Each year, drunk driving causes thousands of accidents around the world. To prevent people from drunk driving, we design an algorithm based on AI (Machine Learning and Deep Learning) to detect the feature of drunk faces. Furthermore, we expect to combine our algorithm with real vehicles (AIOT), which will literally put an end to drunk driving in the future.
 ![compare](demo/compare.png)
-* Demo: https://www.facebook.com/math.helper.tw/?ref=bookmarks
+* Demo: https://www.facebook.com/smart.drive.tw.2018/
